@@ -1,3 +1,5 @@
+# READ ME
+
 This repository contains Kelven's past assignments while studying Data Science at Ngee Ann Polytechnic.
 
 However, not all assignements could be retrieved as they could not be found. As such, some of the folders will include a combination of a report, solution file, and recorded video.
