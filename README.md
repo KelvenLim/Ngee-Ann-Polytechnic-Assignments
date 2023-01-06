@@ -7,13 +7,15 @@ However, not all assignements could be retrieved as they could not be found. As 
 This repository includes the modules: 
 1. Data Science Fundamentals (DSF)
 2. Database (DB)
-3. Data Discovery and Visualisation (DDV)
-4. Data Exploratory Analysis (DEA)
-5. Intelligent Enterprise Systems (IES)
-6. Data Wrangling (DW)
-7. Agile DataOps (ADO)
-8. Advanced Database (ADB)
-9. Distributed Data Pipelines (DDP)
-10. Machine Learning (ML).
+3. Cybersecurity Fundamentals (CSF)
+4. Design Principles (DP)
+5. Data Discovery and Visualisation (DDV)
+6. Data Exploratory Analysis (DEA)
+7. Intelligent Enterprise Systems (IES)
+8. Data Wrangling (DW)
+9. Agile DataOps (ADO)
+10. Advanced Database (ADB)
+11. Distributed Data Pipelines (DDP)
+12. Machine Learning (ML).
 
 This repository was created in 6 Jan 2023 and was last updated on 6 Jan 2023.
