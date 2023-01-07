@@ -12,17 +12,18 @@ This repository includes the modules:
 5. Data Discovery and Visualisation (DDV)
 6. Fundamentals for IT Professionals 1 (FP1)
 7. Communication Essentials (Comms)
-8. Data Exploratory Analysis (DEA)
-9. Intelligent Enterprise Systems (IES)
-10. Data Wrangling (DW)
-11. Mobile App Devlopment (MAD)
-12. Fundamentals for IT Professionals 2 (FP2)
-13. Innovation Made Possible (IMP)
-14. Agile DataOps (ADO)
-15. Advanced Database (ADB)
-16. Distributed Data Pipelines (DDP)
-17. Machine Learning (ML).
-18. Fundamentals for IT Professionals 3 (FP3)
+8. Starting Your Own Side Hustle (SSH)
+9. Data Exploratory Analysis (DEA)
+10. Intelligent Enterprise Systems (IES)
+11. Data Wrangling (DW)
+12. Mobile App Devlopment (MAD)
+13. Fundamentals for IT Professionals 2 (FP2)
+14. Innovation Made Possible (IMP)
+15. Agile DataOps (ADO)
+16. Advanced Database (ADB)
+17. Distributed Data Pipelines (DDP)
+18. Machine Learning (ML).
+19. Fundamentals for IT Professionals 3 (FP3)
 
 To view the modules, go to the 'modules' branch.
 
