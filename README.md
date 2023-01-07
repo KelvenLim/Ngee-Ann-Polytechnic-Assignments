@@ -18,4 +18,6 @@ This repository includes the modules:
 11. Distributed Data Pipelines (DDP)
 12. Machine Learning (ML).
 
-This repository was created in 6 Jan 2023 and was last updated on 6 Jan 2023.
+To view the modules, go to the 'modules' branch.
+
+This repository was created in 6 Jan 2023 and was last updated on 7 Jan 2023.
