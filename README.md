@@ -5,7 +5,7 @@ This repository was last updated on 13 Jan 2023.
 This repository contains Kelven's past works which include:
 
 1. Academic awards
-2. Service awards
+2. Service/volunteering awards
 3. Assignments from Ngee Ann Polytechnic
 
 To view my academic awards, go to the 'academic-awards' branch
