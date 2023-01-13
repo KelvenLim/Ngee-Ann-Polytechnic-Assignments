@@ -1,5 +1,7 @@
 # READ ME
 
+This repository was last updated on 13 Jan 2023.
+
 This repository contains Kelven's past assignments while studying Data Science at Ngee Ann Polytechnic.
 
 However, not all assignements could be retrieved as they could not be found. As such, some of the folders will include a combination of a report, solution file, and recorded video.
@@ -28,6 +30,15 @@ This repository includes the modules:
 
 To view the modules, go to the 'modules' branch.
 
-Click [here](https://www.linkedin.com/in/kelven-lim-637b101b6/) to see my LinkedIn page
+# Contact Me
+LinkedIn: https://www.linkedin.com/in/kelven-lim-637b101b6/
 
-This repository was last updated on 13 Jan 2023.
+Facebook: https://www.facebook.com/kelven.lim.1029
+
+Telegram: @dove_shampoo
+
+Discord: doveshampoo#2873
+
+Reddit: u/Fresh_Practice5294
+
+Email: kelvenlim2402@gmail.com
