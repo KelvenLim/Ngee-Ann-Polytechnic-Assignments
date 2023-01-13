@@ -28,4 +28,6 @@ This repository includes the modules:
 
 To view the modules, go to the 'modules' branch.
 
+Click [here](https://www.linkedin.com/in/kelven-lim-637b101b6/) to see my LinkedIn page
+
 This repository was last updated on 13 Jan 2023.
