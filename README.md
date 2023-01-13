@@ -8,9 +8,9 @@ This repository contains Kelven's past works which include:
 2. Service awards
 3. Assignments from Ngee Ann Polytechnic
 
-To view my academic awards, go to the 'academic awards' branch
+To view my academic awards, go to the 'academic-awards' branch
 
-To view my service awards, go to the 'service awards' branch
+To view my service awards, go to the 'service-awards' branch
 
 To view the past assignments, go to the 'modules' branch.
 
