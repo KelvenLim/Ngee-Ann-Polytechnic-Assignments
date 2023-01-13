@@ -23,9 +23,8 @@ This repository includes the modules:
 16. Advanced Database (ADB)
 17. Distributed Data Pipelines (DDP)
 18. Machine Learning (ML)
-19. Distributed Data Pipelines (DDP)
-20. Fundamentals for IT Professionals 3 (FP3)
-21. World Issues: A Singapore Perspective (WISP)
+19. Fundamentals for IT Professionals 3 (FP3)
+20. World Issues: A Singapore Perspective (WISP)
 
 To view the modules, go to the 'modules' branch.
 
