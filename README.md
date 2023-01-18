@@ -16,6 +16,8 @@ To view the past assignments, go to the 'modules' branch.
 
 # Contact Me
 
+Website: https://kelvenlim2402.wixsite.com/newportfolio
+
 LinkedIn: https://www.linkedin.com/in/kelven-lim-637b101b6/
 
 Facebook: https://www.facebook.com/kelven.lim.1029
