@@ -4,15 +4,15 @@ This repository was last updated on 4 May 2023.
 
 This repository contains Kelven's past works which include:
 
-1. Academic awards
-2. Service/volunteering awards
-3. Assignments from Ngee Ann Polytechnic
+1. AcademicAwards
+2. ServiceAwards
+3. Skill-Software-Certifications
 
-To view my academic awards, go to the 'academic-awards' branch
+AcademicAwards contains bursaries, scholarship awards, and assessment awards.
 
-To view my service awards, go to the 'service-awards' branch
+ServiceAwards contains leadership appointments, event participations, and volunteering.
 
-To view the past assignments, go to the 'modules' branch.
+Skill-Software-Certifications contains certifications from taking skill or software exams
 
 # Contact Me
 
