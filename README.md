@@ -1,6 +1,6 @@
 # READ ME
 
-This repository was last updated on 4 May 2023.
+This repository was last updated on 13 May 2023.
 
 This repository contains Kelven's past works which include:
 
@@ -16,7 +16,7 @@ Skill-Software-Certifications contains certifications from taking skill or softw
 
 # Contact Me
 
-Resume: https://drive.google.com/file/d/1xt3WpL4kcBYXWb1WVdItEBrMlEZFw_3c/view?usp=share_link
+Resume: https://drive.google.com/file/d/11piLxhw8Il8krhtIXbBg2rKD1AZvNmr9/view?usp=share_link
 
 Website: https://kelvenlim2402.wixsite.com/newportfolio
 
