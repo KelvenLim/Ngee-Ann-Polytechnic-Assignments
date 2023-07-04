@@ -5,6 +5,7 @@ This repository contains Kelven's past assignments/assessments from the differen
 However, some assignments could not be retrieved as they were deleted prior to creating this repository. Each assignment folder will include a combination of a Microsoft Word Doc report, PDF slide, solution file with codes, and link to a recorded video.
 
 This repository includes the modules: 
+
 Year 1:
 1. Cybersecurity Fundamentals (CSF)
 2. Data Science Fundamentals (DSF)
@@ -15,6 +16,7 @@ Year 1:
 7. Data Discovery and Visualisation (DDV)
 8. Starting Your Own Side Hustle (SSH)
 9. Innovation Made Possible (IMP)
+
 
 Year 2:
 1. Intelligent Enterprise Systems (IES) 
@@ -28,6 +30,7 @@ Year 2:
 9. Fundamentals for IT Professionals 3 (FP3)
 10. Advanced Database (ADB)
 11. World Issues: A Singapore Perspective (WISP)
+
 
 Year 3:
 1. Emerging Trends in Data Science (ETDS)
