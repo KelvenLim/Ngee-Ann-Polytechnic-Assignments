@@ -1,6 +1,6 @@
 # READ ME
 
-This repository was last updated on 13 May 2023.
+This repository was last updated on 7 July 2023.
 
 This repository contains Kelven's past works which include:
 
@@ -10,7 +10,7 @@ This repository contains Kelven's past works which include:
 
 AcademicAwards contains bursaries, scholarship awards, and assessment awards.
 
-ServiceAwards contains leadership appointments, event participations, and volunteering.
+ServiceAwards contains leadership appointments, event participation, and volunteering.
 
 Skill-Software-Certifications contains certifications from taking skill or software exams
 
